@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/scanner.js": {
+      "maxburation": 30
+    }
+  }
+}
